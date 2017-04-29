@@ -4,14 +4,13 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: MCPERoleplay Beta Site
 email: ...
 description: > # this means to ignore newlines until "baseurl:"
  Welcome to the MCPERoleplay Beta Website, made by Jorti1. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jorti1.github.io/mcperoleplay/" # the base hostname & protocol for your site
+url: "80.80.80.80" # the base hostname & protocol for your site
 twitter_username: MCPERoleplay
 github_username:  jorti1
 
