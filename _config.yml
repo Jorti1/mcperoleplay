@@ -10,7 +10,7 @@ title: MCPERoleplay Beta Site
 email: ...
 description: > # this means to ignore newlines until "baseurl:"
  Welcome to the MCPERoleplay Beta Website, made by Jorti1. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "mcperoleplay.tk" # the subpath of your site, e.g. /blog
 url: "http://mcperoleplay.tk" # the base hostname & protocol for your site
 twitter_username: MCPERoleplay
 github_username:  jorti1
