@@ -19,3 +19,5 @@ github_username:  jorti1
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
